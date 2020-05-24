@@ -4,4 +4,4 @@ Apuntes para recordar cuando voy a empezar a trabajar con visual code y todo se 
 # Plugins sugeridos
 - Prettier- Code formatter
 - Auto Rename Tag
-
+- Live Server (opcional)
